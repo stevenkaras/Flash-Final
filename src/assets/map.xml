@@ -1,0 +1,108 @@
+<game>
+	<level title="A Nudge In The Right Direction">
+		<dispenser x="80" y="50" dir="90" />
+		<detector x="400" y="200" />
+		<piece type="rightPiece" radius="60" strength="0.5" x="200" y="200" />
+	</level>
+	<level title="Back and Around">
+		<dispenser dir="0" x="188" y="274"/>
+		<detector x="130" y="47"/>
+		<piece x="247" y="178" radius="60" strength="0.5" type="upPiece" moveable="true"/>
+		<piece x="190" y="176" radius="60" strength="0.8" type="leftPiece" moveable="true"/>
+	</level>
+	<level title="Full Count and One Out">
+		<dispenser dir="0" x="65" y="56"/>
+		<detector x="185" y="246"/>
+		<piece x="398" y="196" radius="90" strength="0.15" type="outPiece" moveable="true"/>
+	</level>
+	<level title="Samurai Cut">
+		<dispenser dir="0" x="48" y="222"/>
+		<dispenser dir="180" x="519" y="129"/>
+		<detector x="221" y="48"/>
+		<detector x="385" y="350"/>
+		<piece x="305" y="201" radius="80" strength="0.1" type="outPiece" moveable="true"/>
+	</level>
+	<level title="Constant Values">
+		<dispenser dir="180" x="360" y="281"/>
+		<detector x="302" y="103"/>
+		<piece x="75" y="284" radius="60" strength="0.4" type="upPiece" moveable="true"/>
+		<piece x="206" y="131" radius="60" strength="0.4" type="rightPiece" moveable="false"/>
+	</level>
+	<level title="Permanent Hardships">
+		<dispenser dir="0" x="81" y="67"/>
+		<detector x="406" y="274"/>
+		<piece x="189" y="152" radius="60" strength="0.5" type="downPiece" moveable="true"/>
+		<piece x="372" y="183" radius="60" strength="2.5" type="rightPiece" moveable="false"/>
+		<piece x="191" y="202" radius="60" strength="0.5" type="leftPiece" moveable="true"/>
+	</level>
+	<level title="Waterfall Country">
+		<dispenser dir="180" x="516" y="75"/>
+		<dispenser dir="180" x="521" y="302"/>
+		<dispenser dir="180" x="516" y="181"/>
+		<detector x="145" y="180"/>
+		<detector x="143" y="225"/>
+		<detector x="101" y="201"/>
+		<piece x="214" y="69" radius="60" strength="0.4" type="downPiece" moveable="true"/>
+		<piece x="252" y="181" radius="60" strength="0.4" type="upPiece" moveable="true"/>
+	</level>
+	<level title="Gravity Wells">
+		<dispenser dir="0" x="70" y="148"/>
+		<dispenser dir="0" x="70" y="200"/>
+		<detector x="498" y="48"/>
+		<detector x="493" y="293"/>
+		<piece x="333" y="88" radius="90" strength="0.15" type="inPiece" moveable="true"/>
+		<piece x="284" y="88" radius="90" strength="0.15" type="inPiece" moveable="true"/>
+	</level>
+	<level title="Samson">
+		<dispenser dir="0" x="113" y="131"/>
+		<dispenser dir="0" x="110" y="237"/>
+		<detector x="349" y="71"/>
+		<detector x="342" y="293"/>
+		<piece x="400" y="185" radius="60" strength="0.25" type="outPiece" moveable="true"/>
+	</level>
+	<level title="Light At The End Of The Tunnel">
+		<dispenser dir="180" x="500" y="36"/>
+		<detector x="31" y="279"/>
+		<piece x="56" y="229" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="56" y="321" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="100" y="217" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="103" y="325" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="155" y="230" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="150" y="329" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="206" y="220" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="202" y="326" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="251" y="319" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="291" y="296" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="242" y="189" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="327" y="254" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="274" y="154" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="362" y="212" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="294" y="109" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="403" y="187" radius="50" strength="1.5" type="outPiece" moveable="false"/>
+		<piece x="209" y="45" radius="60" strength="1.5" type="downPiece" moveable="true"/>
+	</level>
+	<level title="Double Trouble">
+		<dispenser dir="180" x="536" y="299"/>
+		<detector x="65" y="108"/>
+		<piece x="268" y="306" radius="60" strength="0.8" type="upPiece" moveable="false"/>
+		<piece x="213" y="142" radius="60" strength="0.4" type="leftPiece" moveable="false"/>
+		<piece x="172" y="192" radius="60" strength="0.4" type="upPiece" moveable="false"/>
+		<piece x="315" y="306" radius="45" strength="2.0" type="downPiece" moveable="false"/>
+		<piece x="316" y="307" radius="60" strength="0.4" type="upPiece" moveable="true"/>
+		<piece x="440" y="180" radius="60" strength="0.4" type="downPiece" moveable="true"/>
+		<piece x="113" y="68" radius="60" strength="1.0" type="downPiece" moveable="false"/>
+		<piece x="121" y="198" radius="60" strength="2.0" type="outPiece" moveable="false"/>
+		<piece x="71" y="200" radius="60" strength="2.0" type="outPiece" moveable="false"/>
+		<piece x="214" y="97" radius="60" strength="2.0" type="outPiece" moveable="false"/>
+		<piece x="216" y="53" radius="60" strength="2.0" type="outPiece" moveable="false"/>
+	</level>
+	<level title="Fountains">
+		<dispenser dir="180" x="535" y="124"/>
+		<dispenser dir="180" x="533" y="78"/>
+		<detector x="76" y="260"/>
+		<detector x="76" y="120"/>
+		<piece x="300" y="445" radius="720" strength="0.098" type="downPiece" moveable="false"/>
+		<piece x="290" y="236" radius="60" strength="0.4" type="upPiece" moveable="true"/>
+		<piece x="304" y="55" radius="80" strength="0.25" type="inPiece" moveable="true"/>
+	</level>
+</game>
